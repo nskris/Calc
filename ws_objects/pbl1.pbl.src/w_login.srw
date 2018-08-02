@@ -57,7 +57,7 @@ end type
 type st_1 from statictext within w_login
 integer x = 1079
 integer y = 472
-integer width = 402
+integer width = 823
 integer height = 64
 integer textsize = -10
 integer weight = 700
@@ -67,7 +67,7 @@ fontfamily fontfamily = swiss!
 string facename = "Tahoma"
 long textcolor = 33554432
 long backcolor = 67108864
-string text = "Username"
+string text = "Username - (Test Changes)"
 boolean focusrectangle = false
 end type
 
