@@ -1,5 +1,5 @@
 ﻿$PBExportHeader$build.srj
-EXE:Application_File,,0,0,1
+EXE:Application_File.exe,,0,0,1
 CMP:0,0,0,2,0,0,1
 COM:Appeon
 DES:Appeon Product File
